@@ -1,4 +1,4 @@
-# TODO
+# TODOe
 ## Massive in scope
 - Rewrite OSC to not depend on proprietary client at all
   - The more I work on this project the more I want to do this
