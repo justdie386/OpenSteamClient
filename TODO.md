@@ -1,5 +1,5 @@
 # TODOe
-## Massive in scope
+## Massive in escope
 - Rewrite OSC to not depend on proprietary client at all
   - The more I work on this project the more I want to do this
     - The app info system is terrible.
