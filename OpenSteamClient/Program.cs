@@ -8,7 +8,7 @@ namespace OpenSteamClient;
 
 public static class Program
 {
-    // Initialization code. Don't use any Avalonia, third-party APIs or any
+    // Initialization code. Don't use any Avalonia, third-party APIs or e
     // SynchronizationContext-reliant code before AppMain is called: things aren't initialized
     // yet and stuff might break.
     [STAThread]
